@@ -1,0 +1,1 @@
+change all #if defined(ccs)  to #if defined(gcc) || defined(ccs)
