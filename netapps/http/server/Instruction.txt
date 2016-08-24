@@ -1,0 +1,7 @@
+rename :
+HTTPString.h to HttpString.h  
+HTTPConfig.h to HttpConfig.h
+
+edit : 
+at HttpCore.c and WebSockHandler.c change HTTPString.h to HttpString.h and also HttpConfig apropriate
+
